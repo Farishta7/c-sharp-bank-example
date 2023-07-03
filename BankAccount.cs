@@ -1,5 +1,6 @@
 using System;
 using System.Text; //This is here so that "StringBuilder();" can be used
+// TEST COMMENT
 
 namespace MySuperBank // Note: actual namespace depends on the project name.
 {
