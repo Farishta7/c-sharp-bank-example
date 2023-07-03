@@ -1,0 +1,15 @@
+/home/farishta/northcoders/PERSONAL PROJECTS/c-sharp-bank/obj/Debug/net7.0/c-sharp-bank.csproj.AssemblyReference.cache
+/home/farishta/northcoders/PERSONAL PROJECTS/c-sharp-bank/obj/Debug/net7.0/c-sharp-bank.GeneratedMSBuildEditorConfig.editorconfig
+/home/farishta/northcoders/PERSONAL PROJECTS/c-sharp-bank/obj/Debug/net7.0/c-sharp-bank.AssemblyInfoInputs.cache
+/home/farishta/northcoders/PERSONAL PROJECTS/c-sharp-bank/obj/Debug/net7.0/c-sharp-bank.AssemblyInfo.cs
+/home/farishta/northcoders/PERSONAL PROJECTS/c-sharp-bank/obj/Debug/net7.0/c-sharp-bank.csproj.CoreCompileInputs.cache
+/home/farishta/northcoders/PERSONAL PROJECTS/c-sharp-bank/bin/Debug/net7.0/c-sharp-bank
+/home/farishta/northcoders/PERSONAL PROJECTS/c-sharp-bank/bin/Debug/net7.0/c-sharp-bank.deps.json
+/home/farishta/northcoders/PERSONAL PROJECTS/c-sharp-bank/bin/Debug/net7.0/c-sharp-bank.runtimeconfig.json
+/home/farishta/northcoders/PERSONAL PROJECTS/c-sharp-bank/bin/Debug/net7.0/c-sharp-bank.dll
+/home/farishta/northcoders/PERSONAL PROJECTS/c-sharp-bank/bin/Debug/net7.0/c-sharp-bank.pdb
+/home/farishta/northcoders/PERSONAL PROJECTS/c-sharp-bank/obj/Debug/net7.0/c-sharp-bank.dll
+/home/farishta/northcoders/PERSONAL PROJECTS/c-sharp-bank/obj/Debug/net7.0/refint/c-sharp-bank.dll
+/home/farishta/northcoders/PERSONAL PROJECTS/c-sharp-bank/obj/Debug/net7.0/c-sharp-bank.pdb
+/home/farishta/northcoders/PERSONAL PROJECTS/c-sharp-bank/obj/Debug/net7.0/c-sharp-bank.genruntimeconfig.cache
+/home/farishta/northcoders/PERSONAL PROJECTS/c-sharp-bank/obj/Debug/net7.0/ref/c-sharp-bank.dll
